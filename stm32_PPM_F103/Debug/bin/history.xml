@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m3 -mthumb -g -Map=stm32_PPM_F103.map -O0 --gc-sections -LD:\CooCox\CoIDE\configuration\ProgramData\stm32_PPM_F103 -TD:\CooCox\CoIDE\configuration\ProgramData\stm32_PPM_F103/arm-gcc-link.ld -g">
+      <target file="stm32_PPM_F103.elf" lastModified="151bbaccb9a">
+         <source file="..\obj\stm32f1xx_hal_rcc_ex.o" lastModified="151bbacb424"/>
+         <source file="..\obj\stm32f1xx_hal_pwr.o" lastModified="151bbacb4c9"/>
+         <source file="..\obj\stm32f1xx_hal.o" lastModified="151bbacb56a"/>
+         <source file="..\obj\stm32f1xx_it.o" lastModified="151bbacb601"/>
+         <source file="..\obj\stm32f1xx_hal_gpio_ex.o" lastModified="151bbacb692"/>
+         <source file="..\obj\stm32f1xx_hal_cortex.o" lastModified="151bbacb73b"/>
+         <source file="..\obj\system_stm32f1xx.o" lastModified="151bbacb7d0"/>
+         <source file="..\obj\stm32f1xx_hal_rcc.o" lastModified="151bbacb8a9"/>
+         <source file="..\obj\usbd_hid.o" lastModified="151bbacb94e"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="151bbacb979"/>
+         <source file="..\obj\stm32f1xx_hal_pcd.o" lastModified="151bbacba46"/>
+         <source file="..\obj\usbd_core.o" lastModified="151bbacbaf7"/>
+         <source file="..\obj\main.o" lastModified="151bbacbba0"/>
+         <source file="..\obj\stm32f1xx_ll_usb.o" lastModified="151bbacbc74"/>
+         <source file="..\obj\stm32f1xx_hal_flash.o" lastModified="151bbacbd22"/>
+         <source file="..\obj\stm32f1xx_hal_gpio.o" lastModified="151bbacbdc6"/>
+         <source file="..\obj\stm32f1xx_hal_dma.o" lastModified="151bbacbe78"/>
+         <source file="..\obj\usbd_desc.o" lastModified="151bbacc25b"/>
+         <source file="..\obj\usbd_conf.o" lastModified="151bbacc31d"/>
+         <source file="..\obj\stm32f1xx_hal_msp.o" lastModified="151bbacc3b3"/>
+         <source file="..\obj\stm32f1xx_hal_tim.o" lastModified="151bbacc50f"/>
+         <source file="..\obj\stm32f1xx_hal_flash_ex.o" lastModified="151bbacc5bc"/>
+         <source file="..\obj\usbd_ctlreq.o" lastModified="151bbacc673"/>
+         <source file="..\obj\stm32f1xx_hal_pcd_ex.o" lastModified="151bbacc707"/>
+         <source file="..\obj\usbd_ioreq.o" lastModified="151bbacc7a4"/>
+         <source file="..\obj\usb_device.o" lastModified="151bbacc83f"/>
+         <source file="..\obj\stm32f1xx_hal_tim_ex.o" lastModified="151bbacc916"/>
+      </target>
+   </processor>
+</history>
