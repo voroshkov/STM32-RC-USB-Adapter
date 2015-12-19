@@ -1,2 +1,3 @@
-*.sublime*
-*.pdf
+*.sublime-project
+*.sublime-workspace
+
