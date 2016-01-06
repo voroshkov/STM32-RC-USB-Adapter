@@ -9,5 +9,5 @@ Project for CooCox IDE.
 Compiled binaries can be found in Debug dir: https://github.com/voroshkov/STM32-RC-USB-Adapter/tree/master/stm32_PPM_F103/Debug/bin
 
 #Connections:
-RC PPM out <==> PA8
-RC GND <==> GND
+- RC PPM out <==> PA8
+- RC GND <==> GND
