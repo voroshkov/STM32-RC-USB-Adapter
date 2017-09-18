@@ -1,4 +1,5 @@
-# STM32F1 Radio Control USB adapter (NOT SUPPORTED BY AUTHOR).
+# STM32F1 Radio Control USB adapter 
+# (NO LONGER SUPPORTED BY AUTHOR).
 
 Allows to connect RC transmitter to PC as a USB HID game controller.
 
